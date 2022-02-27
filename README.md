@@ -6,7 +6,7 @@
 
 Suivez ses étapes:
 
-1. Téléchargez la dernière version du logiciel ou exécutez la commande suivante dans votre terminal: ``git clone https://github.com/Gumbraise/PaladiumWeb``
+1. Téléchargez la dernière version du logiciel ou exécutez la commande suivante dans votre terminal: ````
 2. Glissez les fichiers à la racine de votre machine/hébergeur
 3. Allez sur votre site, l'installation est terminée
 
